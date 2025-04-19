@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cse.nd.edu/'>Department of Computer Science and Engineering</a>, <a href='https://www.nd.edu/'>University of Notre Dame</a>
+subtitle: Department of Computer Science and Engineering, University of Notre Dame
 
 profile:
   align: right
@@ -26,8 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there👋! I'm **Kuangshi Ai**, a first-year Ph.D. student in Computer Science and Engineering at the University of Notre Dame, where I work with Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/) in the ND-VIS Lab. I received my bachelor’s degree in Artificial Intelligence and Data Science from Fudan University.
+
+My research interests lie at the intersection of **scientific visualization**, **human-computer interaction**, and **natural language processing**. Currently, I focus on leveraging large language models (LLMs) to make the complex, expert-oriented process of scientific visualization more intuitive and accessible to broader audiences. I'm also exploring the integration of LLMs with 3D/4D data, including general vision-language models for volumetric and spatial understanding.
+
+If you're interested in my work or would like to collaborate, feel free to reach out at [kai@nd.edu](mailto:kai@nd.edu).
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
