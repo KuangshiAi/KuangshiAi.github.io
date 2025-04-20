@@ -18,21 +18,21 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Please find my full CV in the PDF linked above.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+        },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/template.html";
+            },},{id: "news-graduated-from-fudan-university-as-an-outstanding-graduate",
+          title: 'Graduated from Fudan University as an Outstanding Graduate.',
+          description: "",
+          section: "News",},{id: "news-excited-to-start-my-ph-d-at-the-university-of-notre-dame",
+          title: 'Excited to start my Ph.D. at the University of Notre Dame.',
           description: "",
           section: "News",},{
         id: 'social-email',
