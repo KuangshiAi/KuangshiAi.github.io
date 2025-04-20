@@ -3,21 +3,60 @@
     {
       "institution": "University of Notre Dame",
       "location": "Indiana, USA",
-      "url": "https://nd.edu",
+      "url": "https://nd.edu/",
       "area": "Computer Science and Engineering",
       "studyType": "Ph.D. Student",
       "startDate": "2024-08-15",
       "endDate": "Present",
       "score": "4.0/4.0"
+    },
+    {
+      "institution": "Fudan University",
+      "location": "Shanghai, China",
+      "url": "https://www.fudan.edu.cn/en/",
+      "area": "AI and Data Science",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2020-09-01",
+      "endDate": "2024-07-01",
+      "score": "3.71/4.0"
+    },
+    {
+      "institution": "University of Sydney",
+      "location": "Sydney, Australia",
+      "url": "https://www.sydney.edu.au/",
+      "area": "Computer Science",
+      "studyType": "Exchange Student",
+      "startDate": "2023-02-01",
+      "endDate": "2023-07-01",
+      "score": "4.0/4.0"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Outstanding Graduate",
+      "date": "2024-06-01",
+      "awarder": "Fudan University"
+    },
+    {
+      "title": "Outstanding Student Scholarship",
+      "date": "2021, 2022, 2024",
+      "awarder": "Fudan University",
+      "description": "Awarded to top 10% of students in the School of Data Science"
+    },
+    {
+      "title": "Outstanding Student Leader",
+      "date": "2020, 2021, 2022",
+      "awarder": "Fudan University"
+    },
+    {
+      "title": "Second Prize in China Undergraduate Mathematical Contest in Modeling (CUMCM)",
+      "date": "2022-11-01",
+      "awarder": "China Society for Industrial and Applied Mathematics"
+    },
+    {
+      "title": "Scholarship for Outstanding Freshman",
+      "date": "2020-09-01",
+      "awarder": "Fudan University"
     }
   ]
 }
