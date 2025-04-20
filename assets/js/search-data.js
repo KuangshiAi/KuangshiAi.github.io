@@ -23,12 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/template.html";
-            },},{id: "news-graduated-from-fudan-university-as-an-outstanding-graduate",
+        },{id: "news-graduated-from-fudan-university-as-an-outstanding-graduate",
           title: 'Graduated from Fudan University as an Outstanding Graduate.',
           description: "",
           section: "News",},{id: "news-excited-to-start-my-ph-d-at-the-university-of-notre-dame",
