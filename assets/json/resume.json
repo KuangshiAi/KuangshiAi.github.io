@@ -40,12 +40,6 @@
     {
       "title": "Outstanding Student Scholarship",
       "date": "2021, 2022, 2024",
-      "awarder": "Fudan University",
-      "description": "Awarded to top 10% of students in the School of Data Science"
-    },
-    {
-      "title": "Outstanding Student Leader",
-      "date": "2020, 2021, 2022",
       "awarder": "Fudan University"
     },
     {
@@ -54,7 +48,7 @@
       "awarder": "China Society for Industrial and Applied Mathematics"
     },
     {
-      "title": "Scholarship for Outstanding Freshman",
+      "title": "First-class Scholarship for Freshman",
       "date": "2020-09-01",
       "awarder": "Fudan University"
     }
