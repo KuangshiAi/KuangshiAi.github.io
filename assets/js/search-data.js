@@ -29,6 +29,9 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-start-my-ph-d-at-the-university-of-notre-dame",
           title: 'Excited to start my Ph.D. at the University of Notre Dame.',
           description: "",
+          section: "News",},{id: "news-leveraging-variation-theory-in-counterfactual-data-augmentation-for-optimized-active-learning-was-accepted-by-acl-2025-findings",
+          title: 'Leveraging Variation Theory in Counterfactual Data Augmentation for Optimized Active Learning was accepted...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
