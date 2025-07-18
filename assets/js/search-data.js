@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-leveraging-variation-theory-in-counterfactual-data-augmentation-for-optimized-active-learning-was-accepted-by-acl-2025-findings",
           title: 'Leveraging Variation Theory in Counterfactual Data Augmentation for Optimized Active Learning was accepted...',
           description: "",
+          section: "News",},{id: "news-nli4volvis-natural-language-interaction-for-volume-visualization-via-llm-multi-agents-and-editable-3d-gaussian-splatting-was-accepted-by-ieee-vis-2025-this-marks-my-first-first-author-paper-during-my-ph-d",
+          title: 'NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
