@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[NLI4VolVis: Natural Language Interaction for Volume Visualization
-via LLM Multi-Agents and Editable 3D Gaussian Splatting](https://arxiv.org/abs/2507.12621) and [TexGS-VolVis: Expressive Scene Editing for Volume Visualization via
-Textured Gaussian Splatting](https://www.arxiv.org/abs/2507.13586) were accepted by IEEE VIS 2025! This marks my first first-author paper during my Ph.D.! 🎉
+Two papers were accepted by IEEE VIS 2025! This marks my first first-author paper during my Ph.D.! 🎉
