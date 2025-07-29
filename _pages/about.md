@@ -23,7 +23,7 @@ announcements:
 
 Hi there👋! I'm **Kuangshi Ai**, a first-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), where I work with Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/) in the ND-VIS Lab. I received my bachelor’s degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/en/) in July 2024. During undergrad, I spent a semester as an exchange student at the [University of Sydney](https://www.sydney.edu.au/) and conducted summer research with Prof. [Toby Li](https://toby.li/) at Notre Dame.
 
-My research interests lie at the intersection of **scientific visualization**, **human-computer interaction**, and **natural language processing**. Currently, I focus on leveraging large language models (LLMs) to make the complex, expert-oriented process of scientific visualization more intuitive and accessible to broader audiences. I'm also exploring the integration of LLMs with 3D/4D data, including general vision-language models for volumetric and spatial understanding.
+My research interests lie at the intersection of **scientific visualization**, **human-computer interaction**, and **natural language processing**. Currently, I focus on leveraging large language models (LLMs) to make the complex, expert-oriented process of scientific visualization more intuitive and accessible to broader audiences. My research also explores multi-modal LLM agents for agentic visualization of 3D/4D scientific data through the MCP framework.
 
 If you're interested in my work or would like to collaborate, feel free to reach out at **kai[at]nd[dot]edu**.
 
