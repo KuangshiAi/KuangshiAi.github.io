@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-were-accepted-by-ieee-vis-2025-this-marks-my-first-first-author-paper-during-my-ph-d",
           title: 'Two papers were accepted by IEEE VIS 2025! This marks my first first-author...',
           description: "",
+          section: "News",},{id: "news-ieee-vis-2025-best-paper-award-our-paper-nli4volvis-natural-language-interaction-for-volume-visualization-via-llm-multi-agents-and-editable-3d-gaussian-splatting-has-been-selected-as-one-of-only-5-best-papers-out-of-537-submissions",
+          title: '🏆 IEEE VIS 2025 Best Paper Award! Our paper “NLI4VolVis: Natural Language Interaction...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
