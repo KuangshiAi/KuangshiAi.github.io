@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers were accepted by IEEE VIS 2025! This marks my first first-author paper during my Ph.D.! 🎉
+Two papers accepted to IEEE VIS 2025! This marks my first first-author paper during my Ph.D.! 🎉

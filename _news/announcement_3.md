@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by ACL 2025 findings!
+One paper accepted to ACL 2025 findings!
