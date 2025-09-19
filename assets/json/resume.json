@@ -33,6 +33,11 @@
   ],
   "awards": [
     {
+      "title": "Best Paper Award",
+      "date": "2025",
+      "awarder": "IEEE Visualization Conference"
+    },
+    {
       "title": "Outstanding Graduate",
       "date": "2024-06-01",
       "awarder": "Fudan University"
