@@ -38,7 +38,7 @@ ninja.data = [{
           section: "News",},{id: "news-ieee-vis-2025-best-paper-award-my-first-first-author-paper-nli4volvis-has-been-selected-as-one-of-only-5-best-papers-out-of-537-submissions-the-work-was-also-featured-by-notre-dame-news",
           title: '🏆 IEEE VIS 2025 Best Paper Award! My first first-author paper NLI4VolVis has...',
           description: "",
-          section: "News",},{id: "news-calling-for-collaborators-scivisagentbench-i-m-launching-an-open-collaboration-effort-for-scivisagentbench-a-benchmark-designed-to-evaluate-llm-agents-in-scientific-visualization-learn-more-or-contribute-here-https-kuangshiai-github-io-scivisagentbench-data-collection",
+          section: "News",},{id: "news-calling-for-collaborators-scivisagentbench-i-m-launching-an-open-collaboration-effort-for-scivisagentbench-a-benchmark-designed-to-evaluate-llm-agents-in-scientific-visualization-learn-more-or-contribute-here",
           title: '🚀 Calling for Collaborators: SciVisAgentBench! I’m launching an open collaboration effort for SciVisAgentBench,...',
           description: "",
           section: "News",},{
