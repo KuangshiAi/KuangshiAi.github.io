@@ -23,9 +23,11 @@ announcements:
 
 Hi there👋! I'm **Kuangshi Ai**, a second-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), where I work with Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/) in the ND-VIS Lab. I received my bachelor’s degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/en/) in July 2024. During undergrad, I spent a semester as an exchange student at the [University of Sydney](https://www.sydney.edu.au/) and conducted summer research with Prof. [Toby Li](https://toby.li/) at Notre Dame.
 
-My research interests lie at the intersection of **scientific visualization**, **human-computer interaction**, and **natural language processing**. I develop **multimodal, agentic LLM systems** that make complex visualization and 3D/4D data interaction more intuitive, expressive, and accessible to broader audiences. A key part of my current work involves **evaluating LLM agents for SciVis** by building benchmark datasets and frameworks that assess their capabilities, limitations, and interaction behaviors.
+My research interests lie at the intersection of **scientific visualization**, **human-computer interaction**, and **natural language processing**. I develop **multimodal, agentic LLM systems** that make complex visualization and 3D/4D data interaction more intuitive, expressive, and accessible to broader audiences. My current work also involves **evaluating LLM agents for SciVis** by building benchmarks that assess their capabilities and interaction behaviors.
 
-More broadly, I’m excited about **HCI + VIS + AI**, interfaces for generative and multimodal models, 3D interaction and authoring, agentic workflows, and the future of intelligent, mixed-initiative visualization systems.
+More broadly, I’m excited about **HCI + VIS + AI**, focusing on multimodal agent interfaces, 3D interaction and authoring, agentic workflows, and mixed-initiative visualization systems.
+
+In summer 2026, I will join [TikTok](https://lifeattiktok.com/) in San Jose as a **Machine Learning Scientist Intern**, working with [Yu Wang](https://scholar.google.com/citations?hl=en&user=0Ug5nmMAAAAJ&view_op=list_works&sortby=pubdate).
 
 If you're interested in my work or would like to collaborate, feel free to reach out at **kai[at]nd[dot]edu**.
 
