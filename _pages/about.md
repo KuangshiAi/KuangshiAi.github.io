@@ -21,7 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Hi there👋! I'm **Kuangshi Ai**, a second-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), where I work with Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/) in the ND-VIS Lab. I received my bachelor’s degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/en/) in July 2024. During undergrad, I spent a semester as an exchange student at the [University of Sydney](https://www.sydney.edu.au/) and conducted summer research with Prof. [Toby Li](https://toby.li/) at Notre Dame.
+Hi there👋! I'm **Kuangshi Ai**, a second-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), working with Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/) in the ND-VIS Lab. I received my bachelor’s degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/en/) in July 2024. During undergrad, I spent a semester as an exchange student at the [University of Sydney](https://www.sydney.edu.au/) and conducted summer research with Prof. [Toby Li](https://toby.li/) at Notre Dame.
 
 My research interests lie at the intersection of **scientific visualization**, **human-computer interaction**, and **natural language processing**. I develop **multimodal, agentic LLM systems** that make complex visualization and 3D/4D data interaction more intuitive, expressive, and accessible to broader audiences. My current work also involves **evaluating LLM agents for SciVis** by building benchmarks that assess their capabilities and interaction behaviors.
 
