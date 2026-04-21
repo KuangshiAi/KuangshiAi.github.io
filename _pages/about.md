@@ -27,7 +27,7 @@ My research interests lie at the intersection of **scientific visualization**, *
 
 More broadly, I’m excited about **HCI + VIS + AI**, focusing on multimodal agent interfaces, 3D interaction and authoring, agentic workflows, and mixed-initiative visualization systems.
 
-In summer 2026, I will join [TikTok](https://lifeattiktok.com/) in San Jose as a **Machine Learning Scientist Intern**, working with [Yu Wang](https://scholar.google.com/citations?hl=en&user=0Ug5nmMAAAAJ&view_op=list_works&sortby=pubdate).
+In summer 2026, I will join [TikTok](https://lifeattiktok.com/) in San Jose as a **Machine Learning Scientist Intern**.
 
 If you're interested in my work or would like to collaborate, feel free to reach out at **kai[at]nd[dot]edu**.
 
