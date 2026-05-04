@@ -23,9 +23,9 @@ announcements:
 
 Hi there👋! I'm **Kuangshi Ai**, a second-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), working with Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/) in the ND-VIS Lab. I received my bachelor’s degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/en/) in July 2024. During undergrad, I spent a semester as an exchange student at the [University of Sydney](https://www.sydney.edu.au/) and conducted summer research with Prof. [Toby Li](https://toby.li/) at Notre Dame.
 
-My research interests lie at the intersection of **scientific visualization**, **human-computer interaction**, and **natural language processing**. I develop **multimodal, agentic LLM systems** that make complex visualization and 3D/4D data interaction more intuitive, expressive, and accessible to broader audiences. My current work also involves **evaluating LLM agents for SciVis** by building benchmarks that assess their capabilities and interaction behaviors.
+My research interests lie at the intersection of **LLM agents**, **scientific visualization**, and **human-computer interaction**. I develop **multimodal, agentic LLM systems** that make complex visualization and 3D/4D data interaction more intuitive to broader audiences. My current research also explores **self-evolving LLM agents** with memory, reflection, and adaptive learning capabilities for long-horizon tasks. In addition, I work on **evaluating LLM agents for SciVis** by building benchmarks that assess their capabilities and interaction behaviors.
 
-More broadly, I’m excited about **HCI + VIS + AI**, focusing on multimodal agent interfaces, 3D interaction and authoring, agentic workflows, and mixed-initiative visualization systems.
+More broadly, I’m excited about **AI + VIS + HCI**, focusing on multimodal self-evolving agent, 3D interaction and authoring, agentic workflows, and mixed-initiative visualization systems.
 
 In summer 2026, I will join [TikTok](https://lifeattiktok.com/) in San Jose as a **Machine Learning Scientist Intern**.
 
