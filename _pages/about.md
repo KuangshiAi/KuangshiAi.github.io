@@ -21,7 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Hi! I'm a second-year CS Ph.D. student at the ND-VIS lab, advised by Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/). I received my bachelor’s degree in AI from [Fudan University](https://www.fudan.edu.cn/en/). My work has been recognized with an [IEEE VIS Best Paper Award](https://nli4volvis.github.io/). In summer 2026, I will join [TikTok](https://lifeattiktok.com/) in San Jose as a **Research Scientist Intern**.
+Hi! I'm a second-year CS Ph.D. student at the ND-VIS lab, advised by Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/). I received my bachelor’s degree in AI from [Fudan University](https://www.fudan.edu.cn/en/). My work has been recognized with an [IEEE VIS Best Paper Award](https://nli4volvis.github.io/). In summer 2026, I am working at [TikTok](https://lifeattiktok.com/) in San Jose as a **Research Scientist Intern**.
 
 My research interests lie at the intersection of **LLM agents**, **scientific visualization**, and **human-computer interaction**. I develop **agentic systems** that make complex visualization and 3D/4D data interaction more intuitive to broader audiences. My current research also explores **self-evolving agents** with memory, reflection, and adaptive learning capabilities for long-horizon tasks. In addition, I work on **evaluating LLM agents for SciVis** by building benchmarks that assess their capabilities and interaction behaviors.
 
