@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://cse.nd.edu">Department of Computer Science and Engineering</a>, <a href="https://nd.edu">University of Notre Dame</a>
+subtitle: <a href="https://nd.edu">University of Notre Dame</a>
 
 profile:
   align: right
@@ -21,13 +21,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Hi there👋! I'm **Kuangshi Ai**, a second-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), working with Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/) in the ND-VIS Lab. I received my bachelor’s degree in Artificial Intelligence from [Fudan University](https://www.fudan.edu.cn/en/) in July 2024. During undergrad, I spent a semester as an exchange student at the [University of Sydney](https://www.sydney.edu.au/) and conducted summer research with Prof. [Toby Li](https://toby.li/) at Notre Dame.
+Hi! I'm a second-year CS Ph.D. student at the ND-VIS lab, advised by Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/). I received my bachelor’s degree in AI from [Fudan University](https://www.fudan.edu.cn/en/). My work has been recognized with an [IEEE VIS Best Paper Award](https://nli4volvis.github.io/). In summer 2026, I will join [TikTok](https://lifeattiktok.com/) in San Jose as a **Research Scientist Intern**.
 
-My research interests lie at the intersection of **LLM agents**, **scientific visualization**, and **human-computer interaction**. I develop **multimodal, agentic LLM systems** that make complex visualization and 3D/4D data interaction more intuitive to broader audiences. My current research also explores **self-evolving LLM agents** with memory, reflection, and adaptive learning capabilities for long-horizon tasks. In addition, I work on **evaluating LLM agents for SciVis** by building benchmarks that assess their capabilities and interaction behaviors.
+My research interests lie at the intersection of **LLM agents**, **scientific visualization**, and **human-computer interaction**. I develop **agentic systems** that make complex visualization and 3D/4D data interaction more intuitive to broader audiences. My current research also explores **self-evolving agents** with memory, reflection, and adaptive learning capabilities for long-horizon tasks. In addition, I work on **evaluating LLM agents for SciVis** by building benchmarks that assess their capabilities and interaction behaviors.
 
-More broadly, I’m excited about **AI + VIS + HCI**, focusing on multimodal self-evolving agent, 3D interaction and authoring, agentic workflows, and mixed-initiative visualization systems.
-
-In summer 2026, I will join [TikTok](https://lifeattiktok.com/) in San Jose as a **Machine Learning Scientist Intern**.
+More broadly, I’m excited about **Agentic AI + VIS + HCI**, with interests spanning self-evolving agent, 3D interaction and authoring, agentic workflows, and mixed-initiative visualization systems.
 
 If you're interested in my work or would like to collaborate, feel free to reach out at **kai[at]nd[dot]edu**.
 
