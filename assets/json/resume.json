@@ -7,7 +7,7 @@
       "area": "Computer Science and Engineering",
       "studyType": "Ph.D. Student",
       "startDate": "2024-08-15",
-      "endDate": "Present",
+      "endDate": "Now",
       "score": "4.0/4.0"
     },
     {
@@ -31,6 +31,36 @@
       "score": "4.0/4.0"
     }
   ],
+  "professional_experience": [
+    {
+      "name": "TikTok",
+      "position": "Research Scientist Intern",
+      "location": "San Jose, CA",
+      "startDate": "2026-07",
+      "endDate": "2026-10"
+    },
+    {
+      "name": "Lingjun Investment",
+      "position": "Quantitative Research Intern",
+      "location": "Beijing, China",
+      "startDate": "2024-01",
+      "endDate": "2024-05"
+    },
+    {
+      "name": "Ziyan Intelligent Technology",
+      "position": "Embodied AI Research Intern",
+      "location": "Shanghai, China",
+      "startDate": "2023-10",
+      "endDate": "2023-12"
+    },
+    {
+      "name": "YCIH Logistics",
+      "position": "Data Management Intern",
+      "location": "Yunnan, China",
+      "startDate": "2022-07",
+      "endDate": "2022-08"
+    }
+  ],
   "awards": [
     {
       "title": "Best Paper Award",
@@ -44,7 +74,7 @@
     },
     {
       "title": "Outstanding Student Scholarship",
-      "date": "2021-2024",
+      "date": "2024",
       "awarder": "Fudan University"
     },
     {
@@ -60,8 +90,10 @@
   ],
   "service": [
     {
-      "organization": "IEEE VIS 2026, ACM CHI 2026, SIGGRAPH 2026, EuroVis 2026, ChinaVis 2026, ACM CAIS 2026, Computers & Graphics, Visual Informatics",
-      "position": "Reviewer"
+      "organization": "IEEE VIS '26, ACM CHI '26, SIGGRAPH '26, EuroVis '26, ChinaVis '26, ACM CAIS '26, Computers & Graphics, Visual Informatics",
+      "position": "Reviewer",
+      "startDate": "2025",
+      "endDate": "Now"
     }
   ]
 }
