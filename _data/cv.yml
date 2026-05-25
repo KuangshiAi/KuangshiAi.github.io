@@ -91,6 +91,11 @@
         - Description 1.
         - Description 2.
 
+- title: volunteer
+  type: list
+  contents:
+    - "<u>Reviewer:</u> IEEE VIS, ACM CHI, SIGGRAPH, EuroVis, ChinaVis, ACM CAIS, Computers & Graphics, Visual Informatics"
+
 - title: Other Interests
   type: list
   contents:

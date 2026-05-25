@@ -39,7 +39,7 @@
     },
     {
       "title": "Outstanding Graduate",
-      "date": "2024-06-01",
+      "date": "2024",
       "awarder": "Fudan University"
     },
     {
@@ -49,13 +49,19 @@
     },
     {
       "title": "Second Prize in China Undergraduate Mathematical Contest in Modeling (CUMCM)",
-      "date": "2022-11-01",
+      "date": "2022",
       "awarder": "China Society for Industrial and Applied Mathematics"
     },
     {
       "title": "First-class Scholarship for Freshman",
-      "date": "2020-09-01",
+      "date": "2020",
       "awarder": "Fudan University"
+    }
+  ],
+    "service": [
+    {
+      "organization": "IEEE VIS 2026, ACM CHI 2026, SIGGRAPH 2026, EuroVis 2026, ChinaVis 2026, ACM CAIS 2026, Computers & Graphics, Visual Informatics",
+      "position": "Reviewer"
     }
   ]
 }
