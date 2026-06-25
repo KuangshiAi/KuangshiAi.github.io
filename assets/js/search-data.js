@@ -23,13 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-graduated-from-fudan-university-as-an-outstanding-graduate",
-          title: 'Graduated from Fudan University as an Outstanding Graduate.',
-          description: "",
-          section: "News",},{id: "news-excited-to-start-my-ph-d-at-the-university-of-notre-dame",
-          title: 'Excited to start my Ph.D. at the University of Notre Dame.',
-          description: "",
-          section: "News",},{id: "news-one-paper-accepted-to-acl-2025-findings",
+        },{id: "news-one-paper-accepted-to-acl-2025-findings",
           title: 'One paper accepted to ACL 2025 findings!',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-to-ieee-vis-2025-this-marks-my-first-first-author-paper-during-my-ph-d",
@@ -38,8 +32,8 @@ ninja.data = [{
           section: "News",},{id: "news-ieee-vis-2025-best-paper-award-my-first-first-author-paper-nli4volvis-has-been-selected-as-one-of-only-5-best-papers-out-of-537-submissions-the-work-was-also-featured-by-notre-dame-news",
           title: '🏆 IEEE VIS 2025 Best Paper Award! My first first-author paper NLI4VolVis has...',
           description: "",
-          section: "News",},{id: "news-calling-for-collaborators-scivisagentbench-i-m-launching-an-open-collaboration-effort-for-scivisagentbench-a-benchmark-designed-to-evaluate-llm-agents-in-scientific-visualization-learn-more-or-contribute-through-our-project-page",
-          title: '🚀 Calling for Collaborators: SciVisAgentBench! I’m launching an open collaboration effort for SciVisAgentBench,...',
+          section: "News",},{id: "news-calling-for-collaborators-scivisagentbench-learn-more-or-contribute-through-our-project-page",
+          title: '🚀 Calling for Collaborators: SciVisAgentBench! 🔗 Learn more or contribute through our project...',
           description: "",
           section: "News",},{
         id: 'social-email',
