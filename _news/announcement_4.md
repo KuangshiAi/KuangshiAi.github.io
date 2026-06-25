@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2025-07-15
+date: 2026-01-28
 inline: true
 related_posts: false
 ---
 
-Two papers accepted to IEEE VIS 2025! This marks my first first-author paper during my Ph.D.! 🎉
+🚀 **Calling for Collaborators: SciVisAgentBench!**  
+🔗 Learn more or contribute through our [project page](https://scivisagentbench.github.io/).

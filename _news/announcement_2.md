@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-01
+date: 2025-07-15
 inline: true
 related_posts: false
 ---
 
-Graduated from Fudan University as an Outstanding Graduate.
+Two papers accepted to IEEE VIS 2025! This marks my first first-author paper during my Ph.D.! 🎉

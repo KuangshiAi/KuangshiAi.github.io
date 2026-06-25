@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-15
+date: 2025-05-16
 inline: true
 related_posts: false
 ---
 
-Excited to start my Ph.D. at the University of Notre Dame.
+One paper accepted to ACL 2025 findings!
