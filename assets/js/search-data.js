@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-calling-for-collaborators-scivisagentbench-learn-more-or-contribute-through-our-project-page",
           title: '🚀 Calling for Collaborators: SciVisAgentBench! 🔗 Learn more or contribute through our project...',
           description: "",
+          section: "News",},{id: "news-two-first-author-full-papers-accepted-to-ieee-vis-2026",
+          title: 'Two first-author full papers accepted to IEEE VIS 2026!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
