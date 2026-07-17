@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two first-author full papers accepted to IEEE VIS 2026!
+Two first-author full papers and one short paper accepted to IEEE VIS 2026!
