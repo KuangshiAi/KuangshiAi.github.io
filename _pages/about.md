@@ -21,11 +21,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Hi! I'm a second-year CS Ph.D. student at the ND-VIS lab, advised by Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/). I received my bachelor’s degree in AI from [Fudan University](https://www.fudan.edu.cn/en/). My work has been recognized with an [IEEE VIS Best Paper Award](https://nli4volvis.github.io/). In summer 2026, I am working at [TikTok](https://lifeattiktok.com/) in San Jose as a **Research Scientist Intern**.
+Hi! I'm a third-year CS Ph.D. student at the ND-VIS lab, advised by Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/). I received my bachelor’s degree in AI from [Fudan University](https://www.fudan.edu.cn/en/). Currently, I am a **ML Research Scientist Intern** at [TikTok](https://lifeattiktok.com/) in San Jose, where I work on long-horizon self-evolving agents for AIGC video editing.
 
-My research interests lie at the intersection of **LLM agents**, **scientific visualization**, and **human-computer interaction**. I develop **agentic systems** that make complex visualization and 3D/4D data interaction more intuitive to broader audiences. My current research also explores **self-evolving agents** with memory, reflection, and adaptive learning capabilities for long-horizon tasks. In addition, I work on **evaluating LLM agents for SciVis** by building benchmarks that assess their capabilities and interaction behaviors.
+My research lies at the intersection of **LLM agents**, **scientific visualization**, and **human-computer interaction**. I build **agentic systems** that make complex 3D/4D scientific data easier to explore, understand, and manipulate. My current work focuses on **self-evolving agents** for long-horizon tasks, particularly through memory, reflection, adaptive learning, and agentic post-training. I also develop **benchmarks** and evaluation methods for agents. My work has been recognized with an [IEEE VIS Best Paper Award](https://nli4volvis.github.io/).
 
-More broadly, I’m excited about **Agentic AI + VIS + HCI**, with interests spanning self-evolving agent, 3D interaction and authoring, agentic workflows, and mixed-initiative visualization systems.
+More broadly, I am interested in **Agentic AI + VIS + HCI**, including self-evolving agents, 3D interaction, mixed-initiative systems, and human–agent collaboration.
 
 If you're interested in my work or would like to collaborate, feel free to reach out at **kai[at]nd[dot]edu**.
 

@@ -37,28 +37,44 @@
       "position": "Research Scientist Intern",
       "location": "San Jose, CA",
       "startDate": "2026-07",
-      "endDate": "2026-10"
+      "endDate": "2026-10",
+      "highlights": [
+        "Developing a self-evolving agentic framework that jointly evolves LLM policies and their harnesses for long-horizon AIGC video creation and editing.",
+        "Mining online high-performing short videos to automatically propose workflow and tool improvements and distill reusable agent skills as prior knowledge.",
+        "Leveraging multimodal video-quality judges to diagnose and repair failed trajectories through counterfactual replay, and using the refined trajectories to post-train agentic models via SFT and RL with Tree-GRPO."
+      ]
     },
     {
       "name": "Lingjun Investment",
       "position": "Quantitative Research Intern",
       "location": "Beijing, China",
       "startDate": "2024-01",
-      "endDate": "2024-05"
+      "endDate": "2024-05",
+      "highlights": [
+        "Developed and evaluated quantitative trading models within the firm's live trading framework.",
+        "Designed a graph Transformer-based daily portfolio construction model using proprietary factor libraries, outperforming existing production models in backtesting."
+      ]
     },
     {
       "name": "Ziyan Intelligent Technology",
       "position": "Embodied AI Research Intern",
       "location": "Shanghai, China",
       "startDate": "2023-10",
-      "endDate": "2023-12"
+      "endDate": "2023-12",
+      "highlights": [
+        "Developed perception modules for humanoid robots, including stereo depth estimation and visual navigation.",
+        "Fine-tuned VLMs for robotic navigation and evaluated them in simulation."
+      ]
     },
     {
       "name": "YCIH Logistics",
       "position": "Data Management Intern",
       "location": "Yunnan, China",
       "startDate": "2022-07",
-      "endDate": "2022-08"
+      "endDate": "2022-08",
+      "highlights": [
+        "Developed PostgreSQL-backed tools for real-time monitoring and visualization of supply-chain operations."
+      ]
     }
   ],
   "awards": [
