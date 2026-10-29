@@ -39,9 +39,9 @@
       "startDate": "2026-07",
       "endDate": "2026-10",
       "highlights": [
-        "Developing a self-evolving agentic framework that jointly evolves LLM policies and their harnesses for long-horizon AIGC video creation and editing.",
-        "Mining online high-performing short videos to automatically propose workflow and tool improvements and distill reusable agent skills as prior knowledge.",
-        "Leveraging multimodal video-quality judges to diagnose and repair failed trajectories through counterfactual replay, and using the refined trajectories to post-train agentic models via SFT and RL with Tree-GRPO."
+        "Developed a self-evolving agentic framework that jointly evolves LLM policies and their harnesses for long-horizon AIGC video creation and editing.",
+        "Mined online high-performing short videos to automatically propose workflow and tool improvements and distill reusable agent skills as prior knowledge.",
+        "Diagnosed failed trajectories and generated alternative execution branches through counterfactual replay; used multimodal video-quality judges to evaluate branch outcomes and Tree-GRPO-style credit assignment to identify effective actions, then used refined trajectories for SFT and agentic RL post-training."
       ]
     },
     {
@@ -79,7 +79,17 @@
   ],
   "awards": [
     {
-      "title": "Best Paper Award",
+      "title": "Notebaert Professional Development Award",
+      "date": "2026",
+      "awarder": "University of Notre Dame"
+    },
+    {
+      "title": "Graduate Student Government Conference Presentation Grant",
+      "date": "2026",
+      "awarder": "University of Notre Dame"
+    },
+    {
+      "title": "Best Paper Award (Top 1%)",
       "date": "2025",
       "awarder": "IEEE Visualization Conference"
     },
@@ -106,10 +116,15 @@
   ],
   "service": [
     {
-      "organization": "IEEE VIS '26, ACM CHI '26, SIGGRAPH '26, EuroVis '26, ChinaVis '26, ACM CAIS '26, Computers & Graphics, Visual Informatics",
+      "organization": "IEEE VIS '26, ACM CHI '26, SIGGRAPH '26, EuroVis '26, PacificVis '26, ICLR '27, ChinaVis '26, ACM CAIS '26, Computers & Graphics, Visual Informatics, IJHCI, ISPRS",
       "position": "Reviewer",
       "startDate": "2025",
       "endDate": "Now"
+    },
+    {
+      "organization": "IEEE VIS '26",
+      "position": "Student Volunteer",
+      "date": "2026"
     }
   ]
 }
