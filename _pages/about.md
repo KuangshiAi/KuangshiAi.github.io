@@ -21,11 +21,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Hi! I'm a third-year CS Ph.D. student at the ND-VIS lab, advised by Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/). I received my bachelor’s degree in AI from [Fudan University](https://www.fudan.edu.cn/en/). Currently, I am a **ML Research Scientist Intern** at [TikTok](https://lifeattiktok.com/) in San Jose, where I work on long-horizon self-evolving agents for AIGC video editing.
+Hi! I'm a third-year CS Ph.D. student at the ND-VIS lab, advised by Prof. [Chaoli Wang](https://sites.nd.edu/chaoli-wang/). I received my bachelor’s degree in AI from [Fudan University](https://www.fudan.edu.cn/en/). In summer 2026, I was a **ML Research Scientist Intern** at [TikTok](https://lifeattiktok.com/) in San Jose, where I worked on long-horizon, self-evolving agents for AIGC video editing.
 
-My research lies at the intersection of **LLM agents**, **scientific visualization**, and **human-computer interaction**. I build **agentic systems** that make complex 3D/4D scientific data easier to explore, understand, and manipulate. My current work focuses on **self-evolving agents** for long-horizon tasks, particularly through memory, reflection, adaptive learning, and agentic post-training. I also develop **benchmarks** and evaluation methods for agents. My work has been recognized with an [IEEE VIS Best Paper Award](https://nli4volvis.github.io/).
-
-More broadly, I am interested in **Agentic AI + VIS + HCI**, including self-evolving agents, 3D interaction, mixed-initiative systems, and human–agent collaboration.
+My research lies at the intersection of **LLM agents, visualization, and HCI**, with a current focus on **self-evolving agents** for long-horizon tasks through agentic RL, agent post-training, and memory. I also develop **agentic benchmarks and systems** that support human–agent collaboration and 3D/4D interaction, making complex scientific data easier to explore, understand, and manipulate. My work has been recognized with an [IEEE VIS Best Paper Award](https://nli4volvis.github.io/).
 
 If you're interested in my work or would like to collaborate, feel free to reach out at **kai[at]nd[dot]edu**.
 
